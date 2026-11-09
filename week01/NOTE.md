@@ -1,9 +1,9 @@
 # week01 型と制御構文の再確認、配列・辞書・範囲
 
-> **氏名：** （自分の名前）
-> **最終更新：** YYYY-MM-DD
-> **AI利用レベル：** 演習は 2（生成コード可・4点セット必須）
-> **リファレンス：** swift-grammar-code の `reference/01_basics.md`
+> **氏名：** （自分の名前）aaaaaaaaa
+> **最終更新：** YYYY-MM-DD sssssssss
+> **AI利用レベル：** 演習は 2（生成コード可・4点セット必須） ccccccccccc
+> **リファレンス：** swift-grammar-code の `reference/01_basics.md`fffffffffff
 
 ---
 
